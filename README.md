@@ -1,22 +1,24 @@
-# Falah — FalahrToqIntel
+# Hi, I'm Falah.
 
-**Cybersecurity · Network Engineering · Systems Programming**
+I'm a self-taught systems learner based in Indonesia, working my way from the network layer down to the hardware. I started with curiosity about how WiFi actually works — and that question hasn't stopped pulling me deeper ever since.
 
-Founder of [Karedok Root](https://youtube.com/@karedokroot?si=o8s). Currently learning how computers work from the network layer down to the hardware level.
+Right now I'm spending most of my time with **C**, **Rust**, and **Linux** — learning how memory works, how packets travel, how the kernel decides what runs next. Slow progress, but deliberate.
 
----
-
-### Interests
-
-- 🛡️ Cybersecurity & Network Security
-- 🌐 Network Engineering & Protocol Internals
-- 🐧 Linux & Operating Systems
-- ⚙️ Low-Level & Systems Programming
-- 🔌 Embedded Systems
+I founded **[Karedok Root](https://youtube.com/@karedokroot?si=o8s)** as a place to document that journey and share it with others who are figuring out the same things.
 
 ---
 
-### Languages & Tools
+Most of what I'm learning doesn't show up in commits yet. But here's where I am:
+
+```
+Currently into  →  Rust, TCP/IP internals, Linux kernel basics
+Currently reading  →  Tanenbaum's Computer Networks
+Long-term goal  →  Build tools that matter at the systems level
+```
+
+---
+
+### Tools I work with
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -25,11 +27,8 @@ Founder of [Karedok Root](https://youtube.com/@karedokroot?si=o8s). Currently le
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-### GitHub Stats
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Falahr-Torqintel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -38,21 +37,5 @@ Founder of [Karedok Root](https://youtube.com/@karedokroot?si=o8s). Currently le
 
 ---
 
-### Currently
-
-```
-Learning  → TCP/IP internals, Linux Kernel, Rust systems programming
-Building  → Karedok Root — network & security education community
-Reading   → Computer Networks (Tanenbaum), The Rust Programming Language
-```
-
----
-
-### Connect
-
-[![YouTube](https://img.shields.io/badge/Karedok_Root-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@karedokroot?si=o8s)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@falahrtorqintel)
-
----
-
-<sub>*"The best way to understand a system is to build one."*</sub>
+If something here resonates, feel free to reach out.
+[YouTube](https://youtube.com/@karedokroot?si=o8s) · [Medium](https://medium.com/@falahrtorqintel)
