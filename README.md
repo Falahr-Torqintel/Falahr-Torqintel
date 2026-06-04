@@ -1,98 +1,77 @@
 # Falah
-
 **Cybersecurity · Network Engineering · Systems Programming**
 
-Founder of **Karedok Root**, an educational initiative focused on cybersecurity, networking, Linux, and low-level computing.
+Founder of **[Karedok Root](https://youtube.com/@karedokroot?si=o8s)** — an educational initiative focused on cybersecurity, networking, Linux, and low-level computing.
 
-Currently exploring how computers work from network protocols and operating systems down to hardware and systems programming.
-
----
-
-## About Me
-
-I am passionate about understanding computer systems at a deeper level—from how packets move across networks, how operating systems manage resources, to how software interacts directly with hardware.
-
-My current learning journey focuses on:
-
-- Network Engineering & Protocol Analysis
-- Security Monitoring & SOC Operations
-- Linux Systems Administration
-- Systems Programming with C and Rust
-- Embedded & Low-Level Computing
+I focus on understanding computer systems from the ground up: how packets move across networks, how operating systems manage resources, and how software interacts directly with hardware. Currently building hands-on experience through a self-hosted SOC homelab and structured study in systems programming.
 
 ---
 
-## Current Focus
+## Areas of Focus
+
+- **Network Engineering** — Protocol analysis, TCP/IP internals, routing & switching
+- **Security Operations** — SIEM, IDS/IPS, log analysis, incident investigation
+- **Linux Systems** — Administration, internals, process & memory management
+- **Systems Programming** — C, Rust, low-level computing
+- **Embedded Systems** — Hardware interaction, bare-metal fundamentals
+
+---
+
+## Current Project — SOC Analyst Homelab
+
+Building a self-hosted security monitoring environment to develop practical blue team skills.
 
 ```text
-Building a SOC Analyst Homelab
-
-Docker
-├── Wazuh
-├── Suricata
-├── Linux Monitoring
-├── Log Analysis
-└── Incident Investigation
+Homelab Stack
+├── Wazuh        — SIEM & threat detection
+├── Suricata     — Network IDS/IPS
+├── Docker       — Environment orchestration
+├── Linux hosts  — Monitored endpoints
+└── Log pipeline — Collection, analysis, incident investigation
 ```
 
-Learning to think like a security analyst by building and analyzing real-world monitoring environments.
+Goal: think and respond like a security analyst by working with real-world tooling and self-generated traffic.
 
 ---
 
 ## Technologies
 
-### Languages
+**Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Platforms & Tools
+**Platforms & Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Featured Projects
+## Projects
 
-### SOC Homelab
-Security monitoring lab built with Docker, Wazuh, and Suricata.
-
-### Linux Labs
-Collection of Linux administration, networking, and troubleshooting exercises.
-
-### Packet Analysis Notes
-Learning repository for TCP/IP, packet analysis, and protocol internals.
+| Project | Description |
+|---|---|
+| **SOC Homelab** | Self-hosted security monitoring lab — Wazuh, Suricata, Docker |
+| **WiFi Security Education** | Passive WiFi & network security audit using Linux tools |
+| **Linux Labs** | Linux administration, networking, and troubleshooting exercises |
+| **Packet Analysis Notes** | Study notes on TCP/IP, packet analysis, and protocol internals |
 
 ---
 
 ## Currently Learning
 
 ```text
-Network Protocols
-→ TCP/IP Internals
-→ Routing & Switching Fundamentals
-
-Linux
-→ Linux Internals
-→ Process & Memory Management
-
-Security
-→ Wazuh
-→ Suricata
-→ Log Analysis
-→ Incident Response
-
-Programming
-→ C
-→ Rust
-→ Systems Programming
+Security       →  Wazuh · Suricata · Log Analysis · Incident Response
+Networks       →  TCP/IP Internals · Routing & Switching
+Linux          →  Kernel Internals · Process & Memory Management
+Programming    →  C · Rust · Systems Programming
 ```
 
 ---
@@ -108,9 +87,8 @@ Programming
 
 ## Connect
 
-YouTube: Karedok Root
-
-Medium: @falahrtorqintel
+[![YouTube](https://img.shields.io/badge/Karedok_Root-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@karedokroot?si=o8s)
+[![Medium](https://img.shields.io/badge/@falahrtorqintel-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@falahrtorqintel)
 
 ---
 
