@@ -15,20 +15,6 @@ I focus on understanding computer systems from the ground up: how packets move a
 - **Systems Programming** — C, Rust, low-level computing
 - **Embedded Systems** — Hardware interaction, bare-metal fundamentals
 
----
-
-## Current Project — SOC Analyst Homelab
-
-Building a self-hosted security monitoring environment to develop practical blue team skills.
-
-```text
-Homelab Stack
-├── Wazuh        — SIEM & threat detection
-├── Suricata     — Network IDS/IPS
-├── Docker       — Environment orchestration
-├── Linux hosts  — Monitored endpoints
-└── Log pipeline — Collection, analysis, incident investigation
-```
 
 Goal: think and respond like a security analyst by working with real-world tooling and self-generated traffic.
 
