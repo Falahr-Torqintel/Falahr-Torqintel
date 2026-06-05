@@ -17,11 +17,6 @@ I focus on understanding computer systems from the ground up: how packets move a
 
 
 Goal: think and respond like a security analyst by working with real-world tooling and self-generated traffic.
-
----
-
-## Technologies
-
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
