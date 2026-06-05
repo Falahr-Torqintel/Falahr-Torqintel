@@ -54,41 +54,10 @@ Goal: think and respond like a security analyst by working with real-world tooli
 
 ---
 
-## Projects
 
-| Project | Description |
-|---|---|
-| **SOC Homelab** | Self-hosted security monitoring lab — Wazuh, Suricata, Docker |
-| **WiFi Security Education** | Passive WiFi & network security audit using Linux tools |
-| **Linux Labs** | Linux administration, networking, and troubleshooting exercises |
-| **Packet Analysis Notes** | Study notes on TCP/IP, packet analysis, and protocol internals |
 
----
 
-## Currently Learning
 
-```text
-Security       →  Wazuh · Suricata · Log Analysis · Incident Response
-Networks       →  TCP/IP Internals · Routing & Switching
-Linux          →  Kernel Internals · Process & Memory Management
-Programming    →  C · Rust · Systems Programming
-```
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Falahr-Torqintel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falahr-Torqintel&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Connect
-
-[![YouTube](https://img.shields.io/badge/Karedok_Root-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@karedokroot?si=o8s)
-[![Medium](https://img.shields.io/badge/@falahrtorqintel-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@falahrtorqintel)
 
 ---
 
